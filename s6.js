@@ -1,5 +1,6 @@
-console.log(15 + 13); // Addition
-console.log(30 - 2); // Subtraction
-console.log(14 * 2); // Multiplication
-console.log(196 / 7); // Division
-
+console.log(8 + 0);
+//You should create four lines that look like this:
+console.log(4 + 4); // Addition
+console.log(16 - 8); // Subtraction
+console.log(8 * 1); // Multiplication
+console.log(64 / 8); // Division
